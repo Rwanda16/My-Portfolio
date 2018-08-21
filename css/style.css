@@ -1,0 +1,101 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    font-family: 'Lora', serif;
+}
+
+.navbar {
+    background-color: #ffffff;
+    padding: 2px 5px;
+}
+
+#resume {
+    background-color: rgba(0, 0, 0, 0.71);
+
+}
+
+
+.navbar-brand {
+    min-height: 0px;
+    padding: 0 15px 5px;
+}
+
+#background-picture {
+    background: url(abstract.jpg)no-repeat center fixed;
+    display: table;
+    height: 100%;
+    position: relative;
+    width: 100%;
+    background-size: cover;
+}
+
+.landing-text {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.landing-text h1 {
+    font-size: 300%;
+    font-weight: 600;
+}
+
+.padding {
+    padding: 80px 0;
+}
+
+.padding img {
+    width: 100%
+}
+
+#aboutMe p {
+    text-align: left;
+    font-size: 15px;
+}
+
+
+#fixed {
+    background: url(abstract.jpg) no-repeat center center fixed;
+    display: table;
+    height: 50%;
+    width: 100%;
+    position: inherit;
+    background-size: cover;
+}
+#dice-game{
+    padding: 40px;
+}
+
+.form-control {
+    margin: 5px
+}
+
+.btn {
+    margin: 5px;
+}
+
+
+#phone {
+    margin: 6px
+}
+
+#email {
+    margin: 6px
+}
+
+#linkedin {
+    margin: 6px
+}
+
+#facebook {
+    margin: 6px
+}
+
+#instagram {
+    margin: 6px
+}
+
+#info {
+    margin: 4px
+}
